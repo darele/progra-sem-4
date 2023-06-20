@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: ../../java-advanced-2023/artifacts/info.kgeorgiy.java.advanc
+ ed.implementor.jar
+Created-By: 17.0.1 (Oracle Corporation)
+Main-Class: info.kgeorgiy.ja.piche_kruz.implementor.Implementor
+

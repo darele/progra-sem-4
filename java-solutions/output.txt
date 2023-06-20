@@ -1,0 +1,142 @@
+Running class info.kgeorgiy.java.advanced.crawler.EasyCrawlerTest for info.kgeorgiy.ja.piche_kruz.crawler.WebCrawler
+=== Running test01_singlePage
+=== Running test02_pageAndLinks
+    100 of 1674 pages downloaded, 2 error(s)
+    1600 of 1674 pages downloaded, 64 error(s)
+    1500 of 1674 pages downloaded, 59 error(s)
+    1400 of 1674 pages downloaded, 57 error(s)
+    1300 of 1674 pages downloaded, 55 error(s)
+    1201 of 1674 pages downloaded, 49 error(s)
+    1100 of 1674 pages downloaded, 47 error(s)
+    1000 of 1674 pages downloaded, 45 error(s)
+    900 of 1674 pages downloaded, 42 error(s)
+    800 of 1674 pages downloaded, 37 error(s)
+    700 of 1674 pages downloaded, 31 error(s)
+    600 of 1674 pages downloaded, 25 error(s)
+    500 of 1674 pages downloaded, 21 error(s)
+    400 of 1674 pages downloaded, 13 error(s)
+    300 of 1674 pages downloaded, 9 error(s)
+=== Running test03_invalid
+=== Running test04_deep
+    100 of 5273 pages downloaded, 2 error(s)
+    100 of 5273 pages downloaded, 2 error(s)
+    200 of 5273 pages downloaded, 3 error(s)
+    300 of 5273 pages downloaded, 5 error(s)
+    400 of 5273 pages downloaded, 8 error(s)
+    500 of 5273 pages downloaded, 10 error(s)
+    600 of 5273 pages downloaded, 12 error(s)
+    100 of 5273 pages downloaded, 2 error(s)
+    200 of 5273 pages downloaded, 3 error(s)
+    300 of 5273 pages downloaded, 3 error(s)
+    400 of 5273 pages downloaded, 7 error(s)
+    500 of 5273 pages downloaded, 10 error(s)
+    600 of 5273 pages downloaded, 12 error(s)
+    700 of 5273 pages downloaded, 16 error(s)
+    800 of 5273 pages downloaded, 25 error(s)
+    900 of 5273 pages downloaded, 50 error(s)
+    1000 of 5273 pages downloaded, 85 error(s)
+    1100 of 5273 pages downloaded, 113 error(s)
+    1200 of 5273 pages downloaded, 141 error(s)
+    1300 of 5273 pages downloaded, 172 error(s)
+    1400 of 5273 pages downloaded, 205 error(s)
+    1500 of 5273 pages downloaded, 241 error(s)
+    1600 of 5273 pages downloaded, 272 error(s)
+    1700 of 5273 pages downloaded, 297 error(s)
+    1700 of 5273 pages downloaded, 297 error(s)
+    1800 of 5273 pages downloaded, 331 error(s)
+    1900 of 5273 pages downloaded, 359 error(s)
+    2000 of 5273 pages downloaded, 393 error(s)
+    2100 of 5273 pages downloaded, 428 error(s)
+    2200 of 5273 pages downloaded, 462 error(s)
+    2300 of 5273 pages downloaded, 485 error(s)
+    2400 of 5273 pages downloaded, 518 error(s)
+    2500 of 5273 pages downloaded, 558 error(s)
+    2600 of 5273 pages downloaded, 586 error(s)
+    2700 of 5273 pages downloaded, 608 error(s)
+    2800 of 5273 pages downloaded, 635 error(s)
+    2900 of 5273 pages downloaded, 662 error(s)
+    3000 of 5273 pages downloaded, 693 error(s)
+    3100 of 5273 pages downloaded, 714 error(s)
+    3200 of 5273 pages downloaded, 740 error(s)
+    3300 of 5273 pages downloaded, 765 error(s)
+    3400 of 5273 pages downloaded, 800 error(s)
+    3500 of 5273 pages downloaded, 840 error(s)
+    3600 of 5273 pages downloaded, 879 error(s)
+    3700 of 5273 pages downloaded, 921 error(s)
+    3800 of 5273 pages downloaded, 961 error(s)
+    3900 of 5273 pages downloaded, 992 error(s)
+    4000 of 5273 pages downloaded, 1020 error(s)
+    4100 of 5273 pages downloaded, 1049 error(s)
+    4200 of 5273 pages downloaded, 1091 error(s)
+    4300 of 5273 pages downloaded, 1127 error(s)
+    4400 of 5273 pages downloaded, 1153 error(s)
+    4500 of 5273 pages downloaded, 1184 error(s)
+    4600 of 5273 pages downloaded, 1223 error(s)
+    4700 of 5273 pages downloaded, 1257 error(s)
+    4800 of 5273 pages downloaded, 1299 error(s)
+    4900 of 5273 pages downloaded, 1328 error(s)
+    5000 of 5273 pages downloaded, 1357 error(s)
+    5100 of 5273 pages downloaded, 1394 error(s)
+    5200 of 5273 pages downloaded, 1429 error(s)
+=== Running test05_noLimits
+    100 of 2664 pages downloaded, 2 error(s)
+    200 of 2664 pages downloaded, 5 error(s)
+    300 of 2664 pages downloaded, 11 error(s)
+    400 of 2664 pages downloaded, 18 error(s)
+    500 of 2664 pages downloaded, 22 error(s)
+    600 of 2664 pages downloaded, 27 error(s)
+=== Running test06_limitDownloads
+    100 of 2664 pages downloaded, 2 error(s)
+    200 of 2664 pages downloaded, 10 error(s)
+    300 of 2664 pages downloaded, 17 error(s)
+    400 of 2664 pages downloaded, 22 error(s)
+    500 of 2664 pages downloaded, 25 error(s)
+    600 of 2664 pages downloaded, 33 error(s)
+=== Running test07_limitExtractors
+    100 of 2664 pages downloaded, 1 error(s)
+    200 of 2664 pages downloaded, 7 error(s)
+    300 of 2664 pages downloaded, 10 error(s)
+    400 of 2664 pages downloaded, 18 error(s)
+    500 of 2664 pages downloaded, 21 error(s)
+    600 of 2664 pages downloaded, 26 error(s)
+=== Running test08_limitBoth
+    100 of 2664 pages downloaded, 3 error(s)
+    200 of 2664 pages downloaded, 10 error(s)
+    300 of 2664 pages downloaded, 17 error(s)
+    400 of 2664 pages downloaded, 22 error(s)
+    500 of 2664 pages downloaded, 25 error(s)
+    600 of 2664 pages downloaded, 33 error(s)
+=== Running test09_performance
+    101 of 2664 pages downloaded, 0 error(s)
+    200 of 2664 pages downloaded, 4 error(s)
+    300 of 2664 pages downloaded, 11 error(s)
+    400 of 2664 pages downloaded, 17 error(s)
+    500 of 2664 pages downloaded, 21 error(s)
+    600 of 2664 pages downloaded, 24 error(s)
+Time: 7477
+=== Running test10_realTimePerformance
+    100 of 2664 pages downloaded, 1 error(s)
+    200 of 2664 pages downloaded, 4 error(s)
+    300 of 2664 pages downloaded, 8 error(s)
+    400 of 2664 pages downloaded, 19 error(s)
+    500 of 2664 pages downloaded, 22 error(s)
+    600 of 2664 pages downloaded, 31 error(s)
+Time: 1965
+============================
+OK easy for info.kgeorgiy.ja.piche_kruz.crawler.WebCrawler in 29208ms 
+Class: EasyCrawlerTest
+Salt: easy
+Certificate: EHXQ618VSF/5Aqimi6ieEtIzNY0=
++-----------+
+|      .X.  |
+|      .:   |
+|      :    |
+|    . .:   |
+|   ...o.   |
+|   . ..o.  |
+|  .. o:o   |
+|   o o.o.  |
+|  .:...:   |
+|   .Xo.    |
+|   XXo:    |
++-----------+
