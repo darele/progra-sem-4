@@ -4,7 +4,7 @@ Hey there, if you need example for java advanced course you can read my solution
 I just have to warn you that everyone can access them, so cheat at your own risk.
 
 I have included the bash script which I tested all works with; it works on windows too if executed from GitBash. It works with a specific structure that you can change at your will (by changing the code).
-You may see the example structure in this same repository, but basically folders "shared" and "old_tests" should be at the same level as the script and "info" folder.
+You may see the example structure in this same repository, but basically folders "shared" and "old_tests" should be at the same level as the testing script's and "info" folder.
 For current course, "shared" folder should be used, there all .jar files should be added (everything inside "artifacts" and "lib")
 The same for "old_test" folder if you wanna test with last year's testing files. (to do that you just have to add "o" as last argument to testing script)
 
